@@ -2,4 +2,9 @@
 Console.World("Hello test");
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, Vania!");
+Console.WriteLine("Hello, amdaris!");
+
+public void Add()
+{
+    global::System.Console.WriteLine("Print data");
+}
