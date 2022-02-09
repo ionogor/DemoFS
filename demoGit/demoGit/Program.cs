@@ -12,6 +12,7 @@ namespace demoGit
         {
             global::System.Console.WriteLine(data);
             global::System.Console.WriteLine(data+"data");
+            global::System.Console.WriteLine("Print");
         }
     }
 }
