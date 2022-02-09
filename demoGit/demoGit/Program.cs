@@ -11,6 +11,7 @@ namespace demoGit
         public void Show(string data)
         {
             global::System.Console.WriteLine(data);
+            global::System.Console.WriteLine(data+"data");
         }
     }
 }
