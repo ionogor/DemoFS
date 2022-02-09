@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.World("Hello test");
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, Vania!");
