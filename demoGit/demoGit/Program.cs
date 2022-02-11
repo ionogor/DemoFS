@@ -18,6 +18,8 @@ namespace demoGit
         public void Show()
         {
             TaskCompletionSource;
+
+            Console.WriteLine("Pikaciu");
         }
     }
 }
