@@ -13,3 +13,6 @@ public void Show(string title)
     Console.WriteLine(title);
     Console.WriteLine(title+2);
 }
+void(Add){
+
+}
