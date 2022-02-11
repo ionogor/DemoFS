@@ -6,7 +6,7 @@ Console.WriteLine("Hello, amdaris!");
 
 public void Add()
 {
-    global::System.Console.WriteLine("Print data");
+    
 }
 public void Show(string title)
 {
