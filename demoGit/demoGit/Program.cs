@@ -8,3 +8,7 @@ public void Add()
 {
     global::System.Console.WriteLine("Print data");
 }
+public void Show(string title)
+{
+    Console.WriteLine(title);
+}
